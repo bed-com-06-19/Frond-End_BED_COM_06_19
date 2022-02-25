@@ -1,0 +1,15 @@
+.five-0-five image{
+    display: block;
+    margin: 60px auto;
+
+}
+.five-0-five-msg{
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+
+}
+.five-0-five-msg a{
+    color: #383838;
+}
+

@@ -68,12 +68,12 @@ footer{
     justify-content: space-between;
 
 }
-.social-links{
+.social-link{
     color:#fff;
     margin-left: 20px;
     text-transform: capitalize;
 }
-.social-links:nth-child(1){
+.social-link :nth-child(1){
     margin-left:0;
 }
 

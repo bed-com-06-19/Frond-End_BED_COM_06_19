@@ -4,7 +4,7 @@
 .hero-section{
     width: 100%;
     height: calc( 100vh - 120px);
-    background-image: url('../image/log.webp');
+    background-image: url('../image/black.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
